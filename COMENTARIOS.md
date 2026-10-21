@@ -26,10 +26,14 @@ Puedes comentar:
 ---
 
 ## Tester 2
-**Nombre:**
+**Nombre: Brandon Yahir Martinez Olguin **
 
 **Comentarios:**
-
+1. Experiencia de usuario
+--Se sugiere trasladar el módulo de Mi música, actualmente ubicado en el perfil, hacia la pantalla o módulo principal. El objetivo es optimizar la experiencia de usuario (UX) evitando que deban navegar hasta su perfil para gestionar su música, considerando que esta acción debería estar disponible desde el inicio tras la creación de la cuenta.
+- Se sugiere mejorar la retroalimentación visual (feedback) al momento de cargar un archivo de música. Actualmente, el cambio de color actual es confuso para el usuario, ya que solo muestra un texto que dice "audio seleccionado" sin visualizar el archivo cargado. Se propone mostrar el nombre del archivo, un icono representativo o una barra de estado que confirme claramente que la carga fue exitosa.
+2. Diseño
+- Me agradó bastante el diseño. La funcionalidad de configurar la apariencia (modo claro, oscuro o del sistema) le aporta un valor excelente a la aplicación.
 ---
 
 ## Tester 3
